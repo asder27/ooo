@@ -259,7 +259,7 @@ tool2.Equipped:Connect(function()
     getgenv().jumping = nil
     getgenv().moving = nil
     theme:Stop()
-       getgenv().Animator6D(17147170140, 1, true)
+       getgenv().Animator6D(14284371664, 1, true)
 -- Aura
 local EffectModel = game:GetObjects("rbxassetid://17286931410")[1]
 for _, limb in ipairs(Character:GetChildren()) do
